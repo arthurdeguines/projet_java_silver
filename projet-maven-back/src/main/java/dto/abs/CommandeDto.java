@@ -1,5 +1,5 @@
 package dto.abs;
 
-public class CommandeDto {
-
+public interface CommandeDto {
+	
 }

@@ -12,5 +12,7 @@
         <property name="hbm2ddl.auto">create</property>
         <mapping class="entity.ClientEntity"/>
         <mapping class="entity.CommandeEntity"/>
+        <mapping class="entity.FournisseurEntity"/>
+        <mapping class="entity.FruitEntity"/>
     </session-factory>
 </hibernate-configuration>
